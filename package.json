@@ -1,6 +1,6 @@
 {
   "name": "demos",
-  "version": "0.1",
+  "version": "0.0.1",
   "description": "Demos - Nicolas Le Zombie",
   "main": "server.js",
   "author": "Nicolas Tambon",
