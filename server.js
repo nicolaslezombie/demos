@@ -22,3 +22,8 @@
   httpServer.listen(HTTP_PORT, function(){
     //log.info("Http server ready : listening on port " + HTTP_PORT);
   });
+  
+  app.get('/', function(req, res) {
+		res.send('hello world');
+		res.close();
+    });
