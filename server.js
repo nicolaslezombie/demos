@@ -1,3 +1,5 @@
+console.log('iciiiiiiiiiiiiiiiiiiiiiii');
+
 //var log = require('./log4js.cfg').LOG;
 
 	//log.info('Launching service...');
